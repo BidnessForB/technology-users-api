@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "5728db2a-2d2d-4ad7-a982-c6955a85fdb3",
-		"name": "Users API",
+		"name": "Users API GitHub",
 		"description": "API for creating and managing NOVA Security users.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
