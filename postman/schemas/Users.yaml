@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Users
+  title: Users API Schema
   description: "API for creating and managing NOVA Security users in a demo context for demos."
   version: 1.0.0
   contact: {}
